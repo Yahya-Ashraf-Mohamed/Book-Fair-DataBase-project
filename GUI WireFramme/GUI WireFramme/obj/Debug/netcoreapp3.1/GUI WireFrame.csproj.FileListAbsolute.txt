@@ -1,0 +1,20 @@
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.exe
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.deps.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.runtimeconfig.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.runtimeconfig.dev.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.dll
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\GUI WireFrame.pdb
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.csprojAssemblyReference.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Properties.Resources.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Visitor.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.csproj.GenerateResource.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.AssemblyInfoInputs.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.AssemblyInfo.cs
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.csproj.CoreCompileInputs.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.dll
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.pdb
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI WireFrame.genruntimeconfig.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Ticket_Reservation.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Publishing_House.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Books.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\GUI_WireFramme.Events.resources

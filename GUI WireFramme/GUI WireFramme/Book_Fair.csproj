@@ -1,0 +1,80 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Book_Fair</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ReferencePath>C:\Program Files (x86)\SAP BusinessObjects\Crystal Reports for .NET Framework 4.0\Common\SAP BusinessObjects Enterprise XI 4.0\win32_x86\dotnet\</ReferencePath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CrystalReports.ReportAppServer.CommonObjectModel" Version="13.0.4001" />
+    <PackageReference Include="CrystalReports.ShockwaveFlashObjects" Version="13.0.4001" />
+    <PackageReference Include="Microsoft.ReportingServices.ReportViewerControl.Winforms" Version="150.900.148" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Books.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket Reservation.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Publishing House - Copy.resx">
+      <DependentUpon>Publishing House.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy %282%29 - Copy.resx">
+      <DependentUpon>Ticket Reservation - Copy (2).resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy %282%29.resx">
+      <DependentUpon>Ticket Reservation.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy %283%29.resx">
+      <DependentUpon>Ticket Reservation.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy - Copy %282%29.resx">
+      <DependentUpon>Ticket Reservation - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy - Copy - Copy.resx">
+      <DependentUpon>Ticket Reservation - Copy - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy - Copy.resx">
+      <DependentUpon>Ticket Reservation - Copy.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Ticket Reservation - Copy.resx">
+      <DependentUpon>Ticket Reservation.resx</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Visitor - Copy.resx">
+      <DependentUpon>Visitor.resx</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Service Include="{c0c07587-41a7-46c8-8fbd-3f9c8ebe2ddc}" />
+  </ItemGroup>
+
+</Project>

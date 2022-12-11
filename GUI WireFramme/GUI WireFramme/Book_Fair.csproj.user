@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Adminstrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Booths.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Change_phone_number.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Events.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forget_password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="getID.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Guests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Media.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="organization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Phone_Numbers_SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Publishing House.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reserve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReserveBooth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reset_Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ticket Reservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Use_Ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewSchedual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Visitor_Interestes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Volunteer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Volunteer_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Volunteer_New_Avtivity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Volunteer_Past_Activity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Workers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

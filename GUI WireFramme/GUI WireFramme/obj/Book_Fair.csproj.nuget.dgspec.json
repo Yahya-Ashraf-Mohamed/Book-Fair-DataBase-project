@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Self Development\\Zewail collage material\\Academic years\\Year 2\\Second Semester\\Database Mangment\\Project File\\My Final app - V2.4\\GUI WireFramme\\GUI WireFramme\\Book_Fair.csproj": {}
+  },
+  "projects": {
+    "D:\\Self Development\\Zewail collage material\\Academic years\\Year 2\\Second Semester\\Database Mangment\\Project File\\My Final app - V2.4\\GUI WireFramme\\GUI WireFramme\\Book_Fair.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Self Development\\Zewail collage material\\Academic years\\Year 2\\Second Semester\\Database Mangment\\Project File\\My Final app - V2.4\\GUI WireFramme\\GUI WireFramme\\Book_Fair.csproj",
+        "projectName": "Book_Fair",
+        "projectPath": "D:\\Self Development\\Zewail collage material\\Academic years\\Year 2\\Second Semester\\Database Mangment\\Project File\\My Final app - V2.4\\GUI WireFramme\\GUI WireFramme\\Book_Fair.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\Self Development\\Zewail collage material\\Academic years\\Year 2\\Second Semester\\Database Mangment\\Project File\\My Final app - V2.4\\GUI WireFramme\\GUI WireFramme\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "CrystalReports.ReportAppServer.CommonObjectModel": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "CrystalReports.ShockwaveFlashObjects": {
+              "target": "Package",
+              "version": "[13.0.4001, )"
+            },
+            "Microsoft.ReportingServices.ReportViewerControl.Winforms": {
+              "target": "Package",
+              "version": "[150.900.148, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

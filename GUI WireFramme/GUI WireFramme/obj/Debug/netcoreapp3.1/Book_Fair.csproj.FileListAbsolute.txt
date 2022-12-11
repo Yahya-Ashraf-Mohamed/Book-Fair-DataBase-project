@@ -1,0 +1,534 @@
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csprojAssemblyReference.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+C:\Users\753152\Desktop\Database\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csprojAssemblyReference.cache
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.test.resources
+C:\Users\753152\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.test.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+C:\Users\dell\Desktop\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CopyComplete
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookAdd.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Phone_Numbers_SignIn.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\Full Project\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor_Interestes.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookAdd.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Phone_Numbers_SignIn.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Use_Ticket.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor_Interestes.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CopyComplete
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My work\V3.2\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookAdd.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Change_phone_number.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Phone_Numbers_SignIn.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reset_Password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Use_Ticket.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor_Interestes.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CopyComplete
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ShockwaveFlashObjects.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Types.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.getID.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookAdd.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Change_phone_number.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.getID.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Phone_Numbers_SignIn.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reset_Password.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Use_Ticket.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor_Interestes.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ShockwaveFlashObjects.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Types.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CopyComplete
+D:\Zewail collage material\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.exe
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.deps.json
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.json
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.runtimeconfig.dev.json
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ShockwaveFlashObjects.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Types.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.AssemblyReference.cache
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Adminstrator.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookAdd.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookInfo.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Books.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSearch.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.BookSeller.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Booths.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Change_phone_number.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Events.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Forget_password.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.getID.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Guests.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Login_form.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Media.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Organization.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Phone_Numbers_SignIn.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Properties.Resources.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Publishing_House.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Registration.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reserve.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ReserveBooth.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Reset_Password.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Sign_Up_1_Form.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.SignUp_2_form.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Ticket_Reservation.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Use_Ticket.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.ViewSchedual.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Visitor_Interestes.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Edit.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_New_Avtivity.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Volunteer_Past_Activity.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.Workers.resources
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.GenerateResource.cache
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfoInputs.cache
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.AssemblyInfo.cs
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CoreCompileInputs.cache
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.csproj.CopyComplete
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.dll
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.pdb
+D:\Self Development\Zewail collage material\Academic years\Year 2\Second Semester\Database Mangment\Project File\My Final app - V2.4\GUI WireFramme\GUI WireFramme\obj\Debug\netcoreapp3.1\Book_Fair.genruntimeconfig.cache
